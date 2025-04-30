@@ -19,21 +19,6 @@ This project was developed as part of the CSDA 5210 – Databases and Data Wareh
 - SQL (PostgreSQL-compatible syntax)
 - Relational Database Design
 - Entity-Relationship Modeling
-
-## 📂 Repository Structure
-
-├── create_tables.sql 
-├── insert_data.sql 
-├── ER_diagram.png
-├── relational_schema.png
-├── star_schema.png
-├── sample_data.png
-├── README.md
-├── query1_felodipine.png
-├── query2_novartis.png
-├── query3_top_products.png
-├── query4_teva_expiring.png
-
 ---
 
 ## 🧭 ER Diagram
